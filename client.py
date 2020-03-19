@@ -25,7 +25,7 @@ def rc():
 			msg = client_socket.recv(BUFSIZE).decode("utf-8")
 			if not left:
 				sys.stdout.write("\r\033[K")
-				sys.stdout.write(msg), sys.stdout.flush()
+				sys.stdout.write(msg); sys.stdout.flush()
 				sys.stdout.write(BOLD+"{}> ".format(NAME)+RESET); sys.stdout.flush()
 			else:
 				return
