@@ -1,2 +1,2 @@
 # SocketChat
-[To be continued] My first version of a multi client chat using socket with python.
+[To be continued] My first version of a multiclient chat using socket with python.
