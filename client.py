@@ -56,4 +56,3 @@ while True:
 		client_socket.send(bytes("LIST", "utf-8"))
 		continue
 	client_socket.send(bytes(msg, "utf-8"))
-	print("sent")
