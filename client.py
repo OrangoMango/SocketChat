@@ -41,7 +41,7 @@ def rc():
 		except:
 			break
 
-print("WELCOME {}, You can start to typing messages!".format(NAME))
+print("WELCOME {}, You can start typing messages!".format(NAME))
 
 while True:
 	x = Thread(target=rc)
