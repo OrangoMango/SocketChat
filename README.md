@@ -1,5 +1,6 @@
 # SocketChat
 [To be continued] My first version of a multiclient chat using socket with python.<br>
+Watch the tutorial: https://youtu.be/aXHfdf-JNsA <br />
 
 ## Instructions
 See: https://github.com/OrangoMango/SocketChat/wiki/Instructions
