@@ -1,5 +1,9 @@
 # SocketChat
 [To be continued] My first version of a multiclient chat using socket with python.<br>
+
+## Instructions
+See: https://github.com/OrangoMango/SocketChat/wiki/Instructions
+
 ## Special Commands
 <ul>
   <li><b>/quit</b>: quit current client from server</li>
