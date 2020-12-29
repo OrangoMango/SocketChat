@@ -1,5 +1,5 @@
 # SocketChat
-[To be continued] My first version of a multiclient chat using socket with python.<br>
+My first version of a multiclient chat using socket with python.<br>
 Watch the tutorial: https://youtu.be/aXHfdf-JNsA <br />
 
 ## Instructions
